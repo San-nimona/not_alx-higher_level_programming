@@ -5,7 +5,6 @@ def square_matrix_simple(matrix=[]):
 
 
         Returns a new matrix
-
     '''
     new_lst = []
     if len(matrix) == 0:
